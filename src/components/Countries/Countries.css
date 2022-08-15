@@ -1,0 +1,11 @@
+.countries-container{
+ display: grid;
+ grid-template-columns: repeat(3, 1fr);
+ grid-gap: 0px;
+}
+.countries{
+    margin-top: 20px;
+}
+.textBold{
+    font-weight: bold;
+}
